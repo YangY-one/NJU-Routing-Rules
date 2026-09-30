@@ -38,3 +38,11 @@ Loon 和 Shadowrocket 请引用表中各自的 `.list` 文件。其他格式需�
 10 个 IP 网段收录自[个人 BRAS 路由配置文章](https://www.yaoge123.com/blog/archives/3376)。原文中的 `10.0.0.0/8` 和 `172.16.0.0/12` 未纳入规则。使用 IP 规则前，请按实际网络环境判断这些网段是否适用。
 
 如需更新域名或网段、重新生成规则，请阅读 [`scripts/README.md`](scripts/README.md)。
+
+## Tips
+
+对 Surge 可以设定代理组（下方的 `NJU-LAN`），该代理组设置当设备在校园内（有线连接的网关 IP 或者无线网的 SSID 判定）时走直连，只有其它情况下（即校外）才走代理（`NJU-VPN`）。
+
+```INI
+NJU-LAN = subnet, default = NJU-VPN, "ROUTER:114.212.1.0" = DIRECT, "SSID:NJU-WLAN" = DIRECT
+```
