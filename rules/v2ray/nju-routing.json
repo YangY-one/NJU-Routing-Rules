@@ -1,0 +1,37 @@
+{
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "type": "field",
+        "domain": [
+          "full:access.nju.edu.cn",
+          "full:aihub.nju.edu.cn",
+          "full:da.nju.edu.cn",
+          "full:elite.nju.edu.cn",
+          "full:eol.nju.edu.cn",
+          "full:ndcwc.nju.edu.cn",
+          "full:run.nju.edu.cn",
+          "full:wjzb.nju.edu.cn"
+        ],
+        "outboundTag": "NJU-VPN"
+      },
+      {
+        "type": "field",
+        "ip": [
+          "114.212.0.0/16",
+          "180.209.0.0/20",
+          "202.119.32.0/19",
+          "202.127.247.0/24",
+          "210.28.128.0/20",
+          "210.29.240.0/20",
+          "219.219.112.0/20",
+          "58.192.32.0/20",
+          "58.192.48.0/21",
+          "58.193.224.0/19"
+        ],
+        "outboundTag": "NJU-VPN"
+      }
+    ]
+  }
+}
