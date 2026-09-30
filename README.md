@@ -19,7 +19,7 @@
 先在客户端配置能访问校内资源的出站策略。下例中的 `NJU-VPN` 是示例策略名，请替换为你实际使用的名称。Surge 可在 `[Rule]` 中引用对应文件：
 
 ```ini
-RULE-SET,https://raw.githubusercontent.com/<用户名>/<仓库>/<分支>/rules/surge/nju.list,NJU-VPN
+RULE-SET,https://raw.githubusercontent.com/YangY-one/NJU-Routing-Rules/main/rules/surge/nju.list,NJU-VPN
 ```
 
 Loon 和 Shadowrocket 请引用表中各自的 `.list` 文件。其他格式需要按客户端配置接入：
