@@ -6,6 +6,7 @@ HOST,eol.nju.edu.cn,NJU-VPN
 HOST,ndcwc.nju.edu.cn,NJU-VPN
 HOST,run.nju.edu.cn,NJU-VPN
 HOST,wjzb.nju.edu.cn,NJU-VPN
+HOST,ky.nju.edu.cn,NJU-VPN
 IP-CIDR,114.212.0.0/16,NJU-VPN,no-resolve
 IP-CIDR,180.209.0.0/20,NJU-VPN,no-resolve
 IP-CIDR,202.119.32.0/19,NJU-VPN,no-resolve

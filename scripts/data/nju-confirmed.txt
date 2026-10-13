@@ -1,2 +1,3 @@
 # Confirmed by user: requires NJU internal network.
 ndcwc.nju.edu.cn
+ky.nju.edu.cn
