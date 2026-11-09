@@ -33,7 +33,7 @@ Loon 和 Shadowrocket 请引用表中各自的 `.list` 文件。其他格式需�
 
 ## 匹配范围
 
-域名规则只匹配列出的主机名，不覆盖整个 `nju.edu.cn`。IP 规则仅匹配目标 IP，默认不会为了判断网段归属而主动解析域名：Surge、Loon、Shadowrocket、Quantumult X 和 Mihomo 的 IP 规则带有 `no-resolve`；V2Ray 使用 `AsIs`。sing-box 规则集本身不包含 DNS 解析动作；如果你的路由配置另有 `resolve` 动作，仍以该配置为准。
+域名规则只匹配列出的主机名，不覆盖整个 `nju.edu.cn`。部分站点首页可公开访问，但站内页面会提示仅限校内访问；规则按整个主机名分流。出现校内限制提示不保证所选 VPN 出站一定可访问该站点，请以实际连接结果为准。IP 规则仅匹配目标 IP，默认不会为了判断网段归属而主动解析域名：Surge、Loon、Shadowrocket、Quantumult X 和 Mihomo 的 IP 规则带有 `no-resolve`；V2Ray 使用 `AsIs`。sing-box 规则集本身不包含 DNS 解析动作；如果你的路由配置另有 `resolve` 动作，仍以该配置为准。
 
 10 个 IP 网段收录自[个人 BRAS 路由配置文章](https://www.yaoge123.com/blog/archives/3376)。原文中的 `10.0.0.0/8` 和 `172.16.0.0/12` 未纳入规则。使用 IP 规则前，请按实际网络环境判断这些网段是否适用。
 

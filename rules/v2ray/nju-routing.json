@@ -14,7 +14,18 @@
           "full:run.nju.edu.cn",
           "full:wjzb.nju.edu.cn",
           "full:ky.nju.edu.cn",
-          "full:hr.nju.edu.cn"
+          "full:hr.nju.edu.cn",
+          "full:es.nju.edu.cn",
+          "full:frontier.nju.edu.cn",
+          "full:gh.nju.edu.cn",
+          "full:jw.nju.edu.cn",
+          "full:ndwy.nju.edu.cn",
+          "full:nubs.nju.edu.cn",
+          "full:scit.nju.edu.cn",
+          "full:sjc.nju.edu.cn",
+          "full:stuex.nju.edu.cn",
+          "full:tuanwei.nju.edu.cn",
+          "full:p.nju.edu.cn"
         ],
         "outboundTag": "NJU-VPN"
       },

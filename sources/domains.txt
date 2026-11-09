@@ -8,3 +8,14 @@ run.nju.edu.cn
 wjzb.nju.edu.cn
 ky.nju.edu.cn
 hr.nju.edu.cn
+es.nju.edu.cn
+frontier.nju.edu.cn
+gh.nju.edu.cn
+jw.nju.edu.cn
+ndwy.nju.edu.cn
+nubs.nju.edu.cn
+scit.nju.edu.cn
+sjc.nju.edu.cn
+stuex.nju.edu.cn
+tuanwei.nju.edu.cn
+p.nju.edu.cn

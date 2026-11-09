@@ -8,6 +8,17 @@ HOST,run.nju.edu.cn,NJU-VPN
 HOST,wjzb.nju.edu.cn,NJU-VPN
 HOST,ky.nju.edu.cn,NJU-VPN
 HOST,hr.nju.edu.cn,NJU-VPN
+HOST,es.nju.edu.cn,NJU-VPN
+HOST,frontier.nju.edu.cn,NJU-VPN
+HOST,gh.nju.edu.cn,NJU-VPN
+HOST,jw.nju.edu.cn,NJU-VPN
+HOST,ndwy.nju.edu.cn,NJU-VPN
+HOST,nubs.nju.edu.cn,NJU-VPN
+HOST,scit.nju.edu.cn,NJU-VPN
+HOST,sjc.nju.edu.cn,NJU-VPN
+HOST,stuex.nju.edu.cn,NJU-VPN
+HOST,tuanwei.nju.edu.cn,NJU-VPN
+HOST,p.nju.edu.cn,NJU-VPN
 IP-CIDR,114.212.0.0/16,NJU-VPN,no-resolve
 IP-CIDR,180.209.0.0/20,NJU-VPN,no-resolve
 IP-CIDR,202.119.32.0/19,NJU-VPN,no-resolve
