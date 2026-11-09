@@ -7,3 +7,4 @@ ndcwc.nju.edu.cn
 run.nju.edu.cn
 wjzb.nju.edu.cn
 ky.nju.edu.cn
+hr.nju.edu.cn

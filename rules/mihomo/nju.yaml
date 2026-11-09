@@ -8,6 +8,7 @@ payload:
   - 'DOMAIN,run.nju.edu.cn'
   - 'DOMAIN,wjzb.nju.edu.cn'
   - 'DOMAIN,ky.nju.edu.cn'
+  - 'DOMAIN,hr.nju.edu.cn'
   - 'IP-CIDR,114.212.0.0/16,no-resolve'
   - 'IP-CIDR,180.209.0.0/20,no-resolve'
   - 'IP-CIDR,202.119.32.0/19,no-resolve'
