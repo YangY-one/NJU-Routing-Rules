@@ -25,7 +25,8 @@
           "full:sjc.nju.edu.cn",
           "full:stuex.nju.edu.cn",
           "full:tuanwei.nju.edu.cn",
-          "full:p.nju.edu.cn"
+          "full:p.nju.edu.cn",
+          "full:mcsf.nju.edu.cn"
         ],
         "outboundTag": "NJU-VPN"
       },

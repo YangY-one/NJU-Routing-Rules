@@ -20,6 +20,7 @@ payload:
   - 'DOMAIN,stuex.nju.edu.cn'
   - 'DOMAIN,tuanwei.nju.edu.cn'
   - 'DOMAIN,p.nju.edu.cn'
+  - 'DOMAIN,mcsf.nju.edu.cn'
   - 'IP-CIDR,114.212.0.0/16,no-resolve'
   - 'IP-CIDR,180.209.0.0/20,no-resolve'
   - 'IP-CIDR,202.119.32.0/19,no-resolve'
